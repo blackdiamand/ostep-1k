@@ -9,5 +9,7 @@ Install `llvm lld qemu`.
 `./run.sh` then `C-A c` to exit qemu's virtual keyboard. 
 
 ## Debugging
-See [how to remotely connect gdb to qemu](https://qemu-project.gitlab.io/qemu/system/gdb.html)
+See [how to remotely connect gdb to qemu](https://qemu-project.gitlab.io/qemu/system/gdb.html).
+
+
 An alternate option is `objdump` or `llvm-objdump`. 
